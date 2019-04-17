@@ -1,0 +1,4 @@
+package instanceOf ;
+
+class Parent {};
+

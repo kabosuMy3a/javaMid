@@ -1,0 +1,4 @@
+package instanceOf ;
+
+interface MyInterface {};
+
